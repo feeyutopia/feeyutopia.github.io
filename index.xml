@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>Feeyutopia</title>
         <link>https://feeyutopia.github.io/</link>
-        <description>Recent content on My New Hugo Site</description>
+        <description>Recent content on Feeyutopia</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 03 Mar 2023 18:54:59 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>海边漫步真的美好吗</title>
-        <link>https://feeyutopia.github.io/post/%E6%B5%B7%E8%BE%B9%E6%BC%AB%E6%AD%A5%E7%9C%9F%E7%9A%84%E7%BE%8E%E5%A5%BD%E5%90%97/</link>
-        <pubDate>Fri, 03 Mar 2023 18:54:59 +0300</pubDate>
+        <lastBuildDate>Thu, 03 Mar 2022 18:54:10 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>当年走过的路如今再走一遍</title>
+        <link>https://feeyutopia.github.io/p/%E5%BD%93%E5%B9%B4%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E5%A6%82%E4%BB%8A%E5%86%8D%E8%B5%B0%E4%B8%80%E9%81%8D/</link>
+        <pubDate>Thu, 03 Mar 2022 18:54:10 +0300</pubDate>
         
-        <guid>https://feeyutopia.github.io/post/%E6%B5%B7%E8%BE%B9%E6%BC%AB%E6%AD%A5%E7%9C%9F%E7%9A%84%E7%BE%8E%E5%A5%BD%E5%90%97/</guid>
+        <guid>https://feeyutopia.github.io/p/%E5%BD%93%E5%B9%B4%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E5%A6%82%E4%BB%8A%E5%86%8D%E8%B5%B0%E4%B8%80%E9%81%8D/</guid>
+        <description>&lt;p&gt;痛苦。&lt;/p&gt;
+&lt;p&gt;当得知我不得不再考一次托福时，我内心久久不能平静。&lt;/p&gt;
+&lt;p&gt;第一次准备托福，还是本科时的申请季。遥想本科时的申请季，总结起来就是六个字，时间紧，任务重。当时各种事情堆到一起，想起来都是满满的焦虑。所以我印象中的托福，就是一次又一次地刷题和对答案。在这种情形下对托福形成的印象，真的是糟糕至极。&lt;/p&gt;
+&lt;p&gt;但是现在，时隔几年，当我再次开始准备托福，只觉得这时间用来做什么不好，非得面对这么糟心的东西。&lt;/p&gt;
+&lt;p&gt;把当年走过的路再走一遍，就一定能比当时走得更好吗？诶，瞬间觉得人生某种程度上只是99%的重复和1%的创新。&lt;/p&gt;
+&lt;p&gt;一股回忆涌上心头，可是还得接着往下走。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>海边漫步真的美好吗</title>
+        <link>https://feeyutopia.github.io/p/%E6%B5%B7%E8%BE%B9%E6%BC%AB%E6%AD%A5%E7%9C%9F%E7%9A%84%E7%BE%8E%E5%A5%BD%E5%90%97/</link>
+        <pubDate>Wed, 03 Mar 2021 18:54:59 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/p/%E6%B5%B7%E8%BE%B9%E6%BC%AB%E6%AD%A5%E7%9C%9F%E7%9A%84%E7%BE%8E%E5%A5%BD%E5%90%97/</guid>
         <description>&lt;p&gt;因为学校靠海，昨晚便想沿着海边那条小路走一会。这一走就是三个多小时，走到最后双腿沉重，脚底生烟。其中的心理变化很有趣，值得记录下来。&lt;/p&gt;
 &lt;p&gt;前一小时，边走边吹着海风，欣赏美景，还把那些弯弯绕绕的边角路也都走了一遍，觉得看到了别人没看到的风景；&lt;/p&gt;
 &lt;p&gt;后一小时，体力慢慢下降，欣赏风景的心情逐渐被赶路要紧的念头取代。我是一个很轴的人，我相信这条小路是闭环的，一直走下去一定能走到出发点（虽然我并不知道是从哪里分析出这条小路是闭环的），而这个想法也更加坚定了我一定要走完这条小路。无论如何要走到海的尽头再返回，我不能放弃。这个时候开始追求效率，只走大路，不会去走那些弯弯绕绕的小道了；&lt;/p&gt;
@@ -23,25 +37,11 @@
 </description>
         </item>
         <item>
-        <title>当年走过的路如今再走一遍</title>
-        <link>https://feeyutopia.github.io/post/%E5%BD%93%E5%B9%B4%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E5%A6%82%E4%BB%8A%E5%86%8D%E8%B5%B0%E4%B8%80%E9%81%8D/</link>
-        <pubDate>Fri, 03 Mar 2023 18:54:10 +0300</pubDate>
-        
-        <guid>https://feeyutopia.github.io/post/%E5%BD%93%E5%B9%B4%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E5%A6%82%E4%BB%8A%E5%86%8D%E8%B5%B0%E4%B8%80%E9%81%8D/</guid>
-        <description>&lt;p&gt;痛苦。&lt;/p&gt;
-&lt;p&gt;当得知我不得不再考一次托福时，我内心久久不能平静。&lt;/p&gt;
-&lt;p&gt;第一次准备托福，还是本科时的申请季。遥想本科时的申请季，总结起来就是六个字，时间紧，任务重。当时各种事情堆到一起，想起来都是满满的焦虑。所以我印象中的托福，就是一次又一次地刷题和对答案。在这种情形下对托福形成的印象，真的是糟糕至极。&lt;/p&gt;
-&lt;p&gt;但是现在，时隔几年，当我再次开始准备托福，只觉得这时间用来做什么不好，非得面对这么糟心的东西。&lt;/p&gt;
-&lt;p&gt;把当年走过的路再走一遍，就一定能比当时走得更好吗？诶，瞬间觉得人生某种程度上只是99%的重复和1%的创新。&lt;/p&gt;
-&lt;p&gt;一股回忆涌上心头，可是还得接着往下走。&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>岁月何须溪上记</title>
-        <link>https://feeyutopia.github.io/post/%E5%B2%81%E6%9C%88%E4%BD%95%E9%A1%BB%E6%BA%AA%E4%B8%8A%E8%AE%B0/</link>
-        <pubDate>Fri, 03 Mar 2023 18:53:42 +0300</pubDate>
+        <link>https://feeyutopia.github.io/p/%E5%B2%81%E6%9C%88%E4%BD%95%E9%A1%BB%E6%BA%AA%E4%B8%8A%E8%AE%B0/</link>
+        <pubDate>Tue, 03 Mar 2020 18:53:42 +0300</pubDate>
         
-        <guid>https://feeyutopia.github.io/post/%E5%B2%81%E6%9C%88%E4%BD%95%E9%A1%BB%E6%BA%AA%E4%B8%8A%E8%AE%B0/</guid>
+        <guid>https://feeyutopia.github.io/p/%E5%B2%81%E6%9C%88%E4%BD%95%E9%A1%BB%E6%BA%AA%E4%B8%8A%E8%AE%B0/</guid>
         <description>&lt;p&gt;谨以此文来追忆我过去半年的种种。&lt;/p&gt;
 &lt;p&gt;太久没有更新了，导致我快要忘记自己还有提笔书写的能力。不过没有更新，也就意味着自己离网络空间有了更远的距离，是在用力地生活着，体验真实世界的充实和荒诞，生命的奇妙和难以捉摸。&lt;/p&gt;
 &lt;p&gt;过去这四五个月，发生了很多的事情，太多细节从脑海略过，真要落笔时竟又觉得千丝万缕，不知从何说起。因此，我不打算再一一道来，只当是一种来到这人世间的一种独特体验吧。不过我还是想给过去这半年一个总结：雪终究会落在只有你自己才能看到的地方，寒冷不仅会让人觉得孤独，更会让人觉得自己还活着。&lt;/p&gt;
