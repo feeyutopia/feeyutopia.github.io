@@ -6,7 +6,25 @@
 
 <link rel='canonical' href='https://feeyutopia.github.io/p/how-to-use-hugo-to-create-personal-blog/'>
 
-<link rel="stylesheet" href="/scss/style.min.8191399262444ab68b72a18c97392f5349be20a1615d77445be51e974c144cff.css"><meta property='og:title' content='How to use Hugo to create personal blog'>
+<link rel="stylesheet" href="/scss/style.min.8191399262444ab68b72a18c97392f5349be20a1615d77445be51e974c144cff.css"><script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script>
+    
+    $(window).scroll(function() {
+    if ($(this).scrollTop()) {
+        $('#back-to-top').fadeIn();
+    } else {
+        $('#back-to-top').fadeOut();
+    }
+    });
+
+    
+    $('#back-to-top').click(function() {
+    $('html, body').animate({scrollTop: 0}, 1000);
+    return false;
+    });
+</script>
+<meta property='og:title' content='How to use Hugo to create personal blog'>
 <meta property='og:description' content='This is an example description.'>
 <meta property='og:url' content='https://feeyutopia.github.io/p/how-to-use-hugo-to-create-personal-blog/'>
 <meta property='og:site_name' content='Feeyutopia'>
@@ -203,7 +221,7 @@
         <div class="widget--toc">
             <nav id="TableOfContents">
   <ol>
-    <li><a href="#frontmatter示例">FrontMatter示例</a></li>
+    <li><a href="#frontmatter-example">FrontMatter Example</a></li>
     <li><a href="#how-to-post-new-blogs">How to post new blogs</a></li>
   </ol>
 </nav>
@@ -300,7 +318,7 @@
     <section class="article-content">
     
     
-    <h2 id="frontmatter示例">FrontMatter示例</h2>
+    <h2 id="frontmatter-example">FrontMatter Example</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
