@@ -6,7 +6,32 @@
         <description>Recent content on Feeyutopia</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 04 Mar 2023 20:43:37 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 04 Mar 2023 22:49:17 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo setup (3): work to be continued</title>
+        <link>https://feeyutopia.github.io/p/hugo-setup-3-work-to-be-continued/</link>
+        <pubDate>Sat, 04 Mar 2023 22:49:17 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/p/hugo-setup-3-work-to-be-continued/</guid>
+        <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;弄好评论&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把文章全部导上去&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;备份Hugo所有文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Actions 自动部署&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo setup (2): blog with links</title>
         <link>https://feeyutopia.github.io/p/hugo-setup-2-blog-with-links/</link>
         <pubDate>Sat, 04 Mar 2023 20:43:37 +0300</pubDate>
