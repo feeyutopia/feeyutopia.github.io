@@ -12,26 +12,33 @@
         <pubDate>Tue, 07 Mar 2023 09:30:11 +0300</pubDate>
         
         <guid>https://feeyutopia.github.io/p/markdown%E7%9B%B8%E5%85%B3/</guid>
-        <description>&lt;h2 id=&#34;插入本地图片&#34;&gt;插入本地图片&lt;/h2&gt;
+        <description>&lt;h2 id=&#34;插入图片---github--picgo&#34;&gt;插入图片 - Github + PicGo&lt;/h2&gt;
 &lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
-&lt;p&gt;为什么要插入本地图片？&lt;/p&gt;
-&lt;p&gt;本地图片可以让markdown文件在本地也可以无损预览，而且可以备份所有文件，不用怕网络图片丢失。&lt;/p&gt;
-&lt;p&gt;同时如若现在的网站服务提供商跑路，或者博主想换服务商和平台，也方便随时迁移markdown文件到新的主题和网站。&lt;/p&gt;
-&lt;h3 id=&#34;how&#34;&gt;How&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![test](/img/5308467276_58cc19e551_o.jpg)
+&lt;p&gt;Githug可以用作图床，PicGo可以用来自动上传图片以及自动生成链接到剪切板。&lt;/p&gt;
+&lt;h3 id=&#34;github配置&#34;&gt;GitHub配置&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;先在GitHub创建一个public repo，例如 blog-image;&lt;/li&gt;
+&lt;li&gt;创建一个personal token，专门用来上传图片&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;picgo配置&#34;&gt;PicGo配置&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;PicGo下载：安装好Homebrew后，直接用命令行&lt;code&gt;brew install picgo --cask&lt;/code&gt;即可安装&lt;/li&gt;
+&lt;li&gt;软件设置：https://picgo.github.io/PicGo-Doc/zh/guide/config.html&lt;/li&gt;
+&lt;li&gt;macOS中，PicGo会出现在顶边栏，直接拖拽图片到图标中即可上传，之后即可粘贴到markdown文件中（也可以直接上传剪切板中的文件）。注意：若要连续上传，需要在两张图片之间有空格。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![](https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;center&amp;gt;雪中的女人&amp;lt;/center&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://feeyutopia.github.io/img/5308467276_58cc19e551_o.jpg&#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;test&#34;
-	
 	
 &gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;常用命令&#34;&gt;常用命令&lt;/h2&gt;
+&lt;h2 id=&#34;markdown常用命令&#34;&gt;Markdown常用命令&lt;/h2&gt;
 </description>
         </item>
         <item>
@@ -302,8 +309,7 @@
         <pubDate>Fri, 08 Jul 2022 20:42:25 +0300</pubDate>
         
         <guid>https://feeyutopia.github.io/p/home-ideal-home-philosophy-limit/</guid>
-        <description>&lt;p&gt;花了将近一个半小时，只为了找一张照片，是我曾经只看到一眼就突然动心，并且过了将近半年仍能想起来的照片，心之所向，莫过如此。
- &lt;/p&gt;
+        <description>&lt;p&gt;花了将近一个半小时，只为了找一张照片，是我曾经只看到一眼就突然动心，并且过了将近半年仍能想起来的照片，心之所向，莫过如此。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/FqeW2LaaAAEDBA_?format=jpg&amp;amp;name=large&#34;
 	
 	
@@ -313,9 +319,8 @@
 		alt=&#34;Ideal home&#34;
 	
 	
-&gt;
-&lt;code&gt;Ideal home&lt;/code&gt;
- &lt;/p&gt;
+&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;一座独立的小岛，一个小别墅，一个灯塔，一个白房子，一个红房子，有花有草，有海有风。看似独立且与世隔绝，但是仍在左边留下了一条海上岩石搭起的路。这张照片我最喜欢的就是这条路，它代表了我与周围世界的联结。这条路可以通向另一座岛，可以通向岸边，也可能搭到一半就断了，也可能只是让我能到达海的另一边。&lt;/p&gt;
 &lt;p&gt;这像极了我对自我世界与周围世界的想象，自给自足，自得其乐，近可守望相助，退可相看不厌。&lt;/p&gt;
 &lt;p&gt;配色也是我很喜欢的配色，灰蓝色的天空，沉静，深邃，一望无际的深蓝色海面几乎将原本的压抑感稀释为无；岛上青黄不接，那浅浅的一层绿色却也在这种低沉的气氛中点缀了象征着希望的生机。&lt;/p&gt;
@@ -1532,8 +1537,7 @@
 &lt;p&gt;其实关于kima为什么去告发他们两人，我的理解是：kima从来都是守规则的人，她其实能看出来这事情瞒下去最终也会被曝光，不如趁陷得还不深的时候就把他们都拉出来还不算晚，毕竟every game has rules, every system has rules. You don&amp;rsquo;t obey them，you&amp;rsquo;ll be killed by them。&lt;/p&gt;
 &lt;p&gt;对于Omar，其实他最后的结局我是很诧异的，毕竟也算是街头叱咤一时的人物，没想到最后就这样被一个毛头小子给当头一枪，令人唏嘘，不禁感叹：能苟就苟，低调做人。&lt;/p&gt;
 &lt;p&gt;另外，对于Bubbles，其实也有很多可以说的点，毕竟从开始的addict到最后的good man，这一路走来他也经历了很多，也成长了很多，他才是最能给我们普通人以力量的一个角色！&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/FqegVX4aEAAYkWd?format=jpg&amp;amp;name=large&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/FqegVX4aEAAYkWd.jpeg&#34;
 	
 	
 	
@@ -1543,7 +1547,6 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;像Herc这样，从抓毒贩到最后为毒贩打官司，这种转变乍一看很荒诞，但你如果跟着剧情一路走来，其实很合理：本身police work已经就没有什么好留恋的了，再加上自己即将被炒，所幸找个能挣钱的营生。&lt;/p&gt;
 &lt;p&gt;所以说这部剧好就好在这里，每个人单拿出来都有很多可圈可点之处，每个人都在自己的困境中奋力地活着，每个人都会在或大或小的时刻面临人性的抉择，this is fucking life!&lt;/p&gt;
 &lt;p&gt;期待以后二刷三刷的时候能有更多不同的视角来看待这部剧。&lt;/p&gt;
