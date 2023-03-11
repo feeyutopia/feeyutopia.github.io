@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Feeyutopia</title>
+        <link>https://feeyutopia.github.io/categories/</link>
+        <description>Recent content in Categories on Feeyutopia</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 07 Mar 2023 09:30:11 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tech</title>
+        <link>https://feeyutopia.github.io/categories/tech/</link>
+        <pubDate>Tue, 07 Mar 2023 09:30:11 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/tech/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>人生想法</title>
+        <link>https://feeyutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</link>
+        <pubDate>Sun, 12 Feb 2023 21:08:12 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>随想</title>
+        <link>https://feeyutopia.github.io/categories/%E9%9A%8F%E6%83%B3/</link>
+        <pubDate>Wed, 01 Feb 2023 23:58:56 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/%E9%9A%8F%E6%83%B3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>申请</title>
+        <link>https://feeyutopia.github.io/categories/%E7%94%B3%E8%AF%B7/</link>
+        <pubDate>Mon, 05 Sep 2022 21:06:04 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/%E7%94%B3%E8%AF%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>科研</title>
+        <link>https://feeyutopia.github.io/categories/%E7%A7%91%E7%A0%94/</link>
+        <pubDate>Mon, 08 Aug 2022 21:02:34 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/%E7%A7%91%E7%A0%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Worries</title>
+        <link>https://feeyutopia.github.io/categories/worries/</link>
+        <pubDate>Sun, 07 Aug 2022 18:54:10 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/worries/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>哲学</title>
+        <link>https://feeyutopia.github.io/categories/%E5%93%B2%E5%AD%A6/</link>
+        <pubDate>Sun, 23 Jan 2022 15:54:25 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/%E5%93%B2%E5%AD%A6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Books</title>
+        <link>https://feeyutopia.github.io/categories/books/</link>
+        <pubDate>Sun, 19 Dec 2021 19:34:21 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/books/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Entertainment</title>
+        <link>https://feeyutopia.github.io/categories/entertainment/</link>
+        <pubDate>Sun, 24 May 2020 17:02:19 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/categories/entertainment/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
